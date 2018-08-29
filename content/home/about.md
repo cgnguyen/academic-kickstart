@@ -2,39 +2,43 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2016-04-20T00:00:00
+date = 2018-08-28T00:00:00
 
 # Order that this section will appear in.
-weight = 5
+weight = 1
 
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+   "Economic Insecurity and Political Attitudes",
+    "Affect and Emotion",
+    "Populism and Responsibility Attribution",
+    "Social Policy",
+    "Experimental and Mixed Methods"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Political Science"
+  institution = "Northwestern University"
+  year = 2014
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Master in Political Science"
+  institution = "Northwestern University"
+  year = 2010
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BA in Economics / International Studies"
+  institution = "Colby College"
+  year = 2006
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a post-doc at the [Chair of German Politics](http://www.polsoz.fu-berlin.de/en/polwiss/forschung/systeme/polsystem/index.html) 
+at the Freie Universität Berlin. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+In my work, I investigate how experiences of insecurity and disadvantage shape political attitudes and behaviors. 
+I am especially interested in the role that emotions, such as anger and anxiety, play in translating general grievances into specific political attitudes. 

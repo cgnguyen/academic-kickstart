@@ -4,16 +4,16 @@ widget = "projects"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Current Projects"
+title = "Selected Media and Outreach"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 20
+weight = 65
 
 # Content.
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/project/`.
-folder = "project"
+folder = "media"
 
 # View.
 # Customize how projects are displayed.
