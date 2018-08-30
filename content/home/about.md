@@ -40,5 +40,16 @@ weight = 1
 I am a post-doc at the [Chair of German Politics](http://www.polsoz.fu-berlin.de/en/polwiss/forschung/systeme/polsystem/index.html) 
 at the Freie Universität Berlin. 
 
-In my work, I investigate how experiences of insecurity and disadvantage shape political attitudes and behaviors. 
-I am especially interested in the role that emotions, such as anger and anxiety, play in translating general grievances into specific political attitudes. 
+In my work, I investigate how experiences of insecurity and disadvantage 
+shape political attitudes and behaviors such as political efficacy, trust, 
+and responsibility attributions. 
+ 
+Currently, I am especially interested in the role that emotions, such as 
+anger and anxiety, play in translating general grievances into specific 
+political attitudes. In this, my work seeks to explore the rise of populism 
+and the construction of new political identities.  
+
+I am also interested in research methods and research design. I am interested 
+in experimental methods, large-N observational data, but also mixed-method 
+and qualitative research designs.  
+ 
