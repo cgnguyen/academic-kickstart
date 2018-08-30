@@ -1,12 +1,12 @@
 +++
 # Date this page was created.
-date = 2018-08-30T00:00:00
+date = 2016-04-27T00:00:00
 
 # Project title.
-title = "PS/MWA - Das Politische System Deutschlands im International Vergleich"
+title = "Mixed Methods"
 
 # Project summary to display on homepage.
-summary = "Introduces German political institutions  (parliament, electoral and party system etc.) and compares them to international counterparts. Also teaches students basic research methods: How to find, read, and synthesize academic works and develop their own questions and arguments. "
+summary = "Course introduces the logics of quantitative and qualitative methods. Special emphasis is placed on methods that combine quantitative and qualitative approaches. "
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = ""
@@ -16,7 +16,7 @@ image_preview = ""
 tags = []
 
 # Optional external URL for project (replaces project detail page).
-external_link = "/files/teaching/psmwa.pdf"
+external_link = "/files/teaching/mixedmethods.pdf"
 
 # Does the project detail page use math formatting?
 math = false
@@ -27,4 +27,3 @@ image = ""
 caption = ""
 
 +++
-

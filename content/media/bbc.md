@@ -3,7 +3,7 @@
 date = 2017-01-27T00:00:00
 
 # Project title.
-title = "BBC Scottland"
+title = "BBC Scotland"
 
 # Project summary to display on homepage.
 summary = ""
@@ -29,7 +29,7 @@ math = false
 [Shockwaves after election in Germany
 ](https://www.bbc.com/news/uk-scotland-41416765) 
 
-[Interview with Good Morning Scottland](static/files/bbc.mp3)
+[Interview with Good Morning Scottland](/files/bbc.mp3)
 
 
 
