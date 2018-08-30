@@ -65,12 +65,12 @@ projects = ["efficacy"]
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.dropbox.com/s/vm3h1bn0oph5r3k/Nguyen-ECPR.pdf?dl=0"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
-url_slides = ""
+url_slides = "https://www.dropbox.com/s/e5y2unow7bguh15/ECPR.pdf?dl=0"
 url_video = ""
 url_poster = ""
 url_source = ""

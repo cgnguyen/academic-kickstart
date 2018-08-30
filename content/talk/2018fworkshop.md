@@ -34,8 +34,8 @@ projects = ["efficacy"]
 tags = []
 
 # Links (optional).
-url_pdf = ""
-url_slides = ""
+url_pdf = "https://www.dropbox.com/s/m57f8whg6ycd5xl/Nguyen-V02.pdf?dl=0"
+url_slides = "https://www.dropbox.com/s/o8ezu1jb9cc1afo/main.pdf?dl=0"
 url_video = ""
 url_code = ""
 

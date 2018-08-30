@@ -66,7 +66,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.dropbox.com/s/m57f8whg6ycd5xl/Nguyen-V02.pdf?dl=0"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
