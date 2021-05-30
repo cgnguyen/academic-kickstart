@@ -10,9 +10,9 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-   "Economic Insecurity and Political Attitudes",
+   "Insecurity and Inequality",
     "Affect and Emotion",
-    "Populism and Responsibility Attribution",
+    "Populism and Prejudice",
     "Social Policy",
     "Experimental and Mixed Methods"
   ]
